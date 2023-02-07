@@ -19,20 +19,28 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: 100%
+          description: Built several end to end projects AI and ML Projects in Python
           icon: python
           icon_pack: fab
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+        - name: Natural Language Processing
+          description: Worked extensively on Machine Translation and Document Representation
+          icon: language
+          icon_pack: fas
         - name: Computer Vision
-          description: 90%
+          description: Worked Extensively on Joint Embedding, Object Detection and Image Segmentation
           icon: eye
           icon_pack: fas
+        - name: R
+          description: Created beautiful R Shiny and Data Analysis Reports in R
+          icon: r-project
+          icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: Skilled in Statistical Inference, Quality Control and Operations Research
           icon: chart-line
+          icon_pack: fas
+        - name: Probability
+          description: Love solving puzzles and have exposure to Advanced Probability
+          icon: dice
           icon_pack: fas
   - block: experience
     content:
