@@ -31,6 +31,7 @@ sections:
   - block: experience
     content:
       title: Experience
+      subtitle: My past work included mostly Multi-Modal Learning, Computational Learning and AI Fairness.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
