@@ -75,11 +75,10 @@ sections:
           date_start: '2021-12-31'
           date_end: '2022-01-31'
           description: |2-
-              * Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
-              * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
-              * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
-              * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
-              * Implemented modified dimension reduction and manifod learning techniques for Brain image data in order to capture neural uncertainty representation.
+              * Analysed the results of the surveys conducted by PACA on cyber abuse from various online and offline platforms.
+              * Modelled the response of people to their chances of being a victim through Decision Trees.
+              * Heirarchial Clustering revealed groups of people with similar traits who were cyber abused as well as groups prone to cyber abuse.
+              * Public sentiments about awareness and ways to curb cyber abuse were mined using natural language processing and sentiment classifiers.
     design:
       columns: '2'
   - block: accomplishments
