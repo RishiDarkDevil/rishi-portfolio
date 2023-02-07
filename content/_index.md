@@ -54,18 +54,19 @@ sections:
               * Developing Large-Scale Data Generation Pipeline for Text-Based Object Discovery to tackle Extreme Object Detection and Classification.
               * Leveraging the above system to generate richer visuo-textual joint embedding using contextual and self-supervised learning and RPE transformer.
               * Handling downstream tasks of detecting harmful meme content, labelling food items, image-to-text and text-to-image retrieval.
-         - title: Data Science Intern
-          company: People Against Cyber Abuse
-          company_url: 'https://www.linkedin.com/company/pacaorg/'
-          company_logo: PACA
-          location: Delhi
-          date_start: '2021-12-15'
-          date_end: '2022-01-31'
+        - title: Summer Research Intern
+          company: Cognitive Brain Dynamics Lab at IIT Jodhpur
+          company_url: 'https://cbdlnbrc.weebly.com/'
+          company_logo: IITJ
+          location: Jodhpur, Rajasthan
+          date_start: '2022-05-15'
+          date_end: '2022-08-31'
           description: |2-
-              * Analysed the results of the surveys conducted by PACA on cyber abuse from various online and offline platforms.
-              * Modelled the response of people to their chances of being a victim through Decision Trees.
-              * Hierarchial Clustering revealed groups of people with similar traits who were cyber abused as well as groups prone to cyber abuse.
-              * Public sentiments about awareness and ways to curb cyber abuse were mined using natural language processing and sentiment classifiers.
+              * Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
+              * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
+              * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
+              * Implemented modified dimension reduction and manifod learning techniques for Brain image data in order to capture neural uncertainty representation.
     design:
       columns: '2'
   - block: accomplishments
