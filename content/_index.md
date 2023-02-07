@@ -12,6 +12,22 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    - block: features
+    content:
+      title: Skills
+      items:
+        - name: Python
+          description: 100%
+          icon: python
+          icon_pack: fab
+        - name: R
+          description: 80%
+          icon: r-project
+          icon_pack: fab
+        - name: Artificial Intelligence
+          description: 100%
+          icon: microchip-ai
+          icon_pack: fas
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
