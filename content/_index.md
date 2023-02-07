@@ -75,7 +75,7 @@ sections:
           date_start: '2021-12-31'
           date_end: '2022-01-31'
           description: |2-
-              * Analysed the results of the surveys conducted by PACA on cyber abuse from various online and offline platforms.
+              * Analysed the results of the surveys conducted on cyber abuse from various online and offline platforms.
               * Modelled the response of people to their chances of being a victim through Decision Trees.
               * Heirarchial Clustering revealed groups of people with similar traits who were cyber abused as well as groups prone to cyber abuse.
               * Public sentiments about awareness and ways to curb cyber abuse were mined using natural language processing and sentiment classifiers.
