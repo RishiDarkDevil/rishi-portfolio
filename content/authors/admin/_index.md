@@ -82,12 +82,18 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/rishidarkdevil/
+    label: Follow me on Instagram
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1SBBgWd_d0f1GK33co15sB-YbIFu802KZ/view
+    label: Find More About Me
+    display:
+      header: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'rishi8001100192@gmail.com'
@@ -96,10 +102,8 @@ email: 'rishi8001100192@gmail.com'
 highlight_name: true
 ---
 
-<p>I am a senior pursuing my undergraduate degree in Statistics from Indian Statistical Institute, Kolkata. Currently, I am working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> at the <a href="https://aiisc.ai/" target="_blank" rel="noopener">AI Institute, University of South Carolina.</a></p> At ISI Kolkata, I am the Event Head for the Annual DataFest Challenge and drive many AI related group discussions.
+<p>I am a senior pursuing my undergraduate degree in Statistics from Indian Statistical Institute, Kolkata. Currently, I am working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> at the <a href="https://aiisc.ai/" target="_blank" rel="noopener">AI Institute, University of South Carolina.</a> At ISI Kolkata, I am the Event Head for the Annual DataFest Challenge and drive many AI related group discussions.</p>
 
-<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I have led several projects in the field of Multi-Modal Learning, AI Fairness and Computational Neuroscience during the last couple of years. I am currently working towards pushing frontiers of object detection and generating richer joint embeddings. Reach out if you are interested in my research or would like to discuss any ideas.</p>
+<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I have led several projects in the field of Multi-Modal Learning, AI Fairness and Computational Neuroscience during the last couple of years. I am presently working towards pushing frontiers of object detection and generating richer joint embeddings. Reach out if you are interested in my research or would like to discuss any ideas. <span style="color:orange; style:bold;"><strong>I am looking for Summer 2023 Internship Opportunities.</strong></span></p>
 
-<p><span style="color:orange; style:bold;"><strong>I am looking for Summer 2023 Internship Opportunities.</strong></span></p>
-
-<p>I love to travel, listen to songs and cook. I enjoy writing about my experiences and ideas on <a href="https://medium.com/@rishidarkdevil" target="_blank" rel="noopener">Medium</a>.</p>
+<p>In my free time, I love to travel, listen to songs and cook. I enjoy writing about my experiences and ideas on <a href="https://medium.com/@rishidarkdevil" target="_blank" rel="noopener">Medium</a>.</p>
