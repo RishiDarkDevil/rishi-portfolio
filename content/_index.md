@@ -54,14 +54,19 @@ sections:
               * Developing Large-Scale Data Generation Pipeline for Text-Based Object Discovery to tackle Extreme Object Detection and Classification.
               * Leveraging the above system to generate richer visuo-textual joint embedding using contextual and self-supervised learning and RPE transformer.
               * Handling downstream tasks of detecting harmful meme content, labelling food items, image-to-text and text-to-image retrieval.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Summer Research Intern
+          company: Cognitive Brain Dynamics Lab at IIT Jodhpur
+          company_url: 'https://cbdlnbrc.weebly.com/'
+          company_logo: IITJ
+          location: Jodhpur, Rajasthan
+          date_start: '2022-05-15'
+          date_end: '2022-08-31'
+          description: |2-
+              * Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
+              * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
+              * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
+              * Implemented modified dimension reduction and manifod learning techniques for Brain image data in order to capture neural uncertainty representation.
     design:
       columns: '2'
   - block: accomplishments
