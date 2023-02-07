@@ -67,6 +67,18 @@ sections:
               * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
               * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
               * Implemented modified dimension reduction and manifod learning techniques for Brain image data in order to capture neural uncertainty representation.
+         - title: Data Science Intern
+          company: People Against Cyber Abuse
+          company_url: 'https://www.linkedin.com/company/pacaorg/'
+          company_logo: PACA
+          location: Delhi
+          date_start: '2021-12-15'
+          date_end: '2022-01-31'
+          description: |2-
+              * Analysed the results of the surveys conducted by PACA on cyber abuse from various online and offline platforms.
+              * Modelled the response of people to their chances of being a victim through Decision Trees.
+              * Hierarchial Clustering revealed groups of people with similar traits who were cyber abused as well as groups prone to cyber abuse.
+              * Public sentiments about awareness and ways to curb cyber abuse were mined using natural language processing and sentiment classifiers.
     design:
       columns: '2'
   - block: accomplishments
