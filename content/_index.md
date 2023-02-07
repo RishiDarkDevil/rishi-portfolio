@@ -43,7 +43,7 @@ sections:
   - block: experience
     content:
       title: Experience
-      subtitle: 'My past work included mostly Multi-Modal Learning, Computational Neuroscience and AI Fairness.'
+      subtitle:
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
