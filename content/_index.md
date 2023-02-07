@@ -12,25 +12,10 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
+      subtitle:
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,27 +25,47 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Intern
+          company: AI Institute of University of South Carolina
+          company_url: 'https://aiisc.ai/'
+          company_logo: aiisc
+          location: Columbia, South Carolina
+          date_start: '2022-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> in the Joint Embedding Group.
+              * Developing Large-Scale Data Generation Pipeline for Text-Based Object Discovery to tackle Extreme Object Detection and Classification.
+              * Leveraging the above system to generate richer visuo-textual joint embedding using contextual and self-supervised learning and RPE transformer.
+              * Handling downstream tasks of detecting harmful meme content, labelling food items, image-to-text and text-to-image retrieval.
+        - title: Summer Research Intern
+          company: Cognitive Brain Dynamics Lab at IIT Jodhpur
+          company_url: 'https://cbdlnbrc.weebly.com/'
+          company_logo: IITJ
+          location: Jodhpur, Rajasthan
+          date_start: '2022-05-15'
+          date_end: '2022-08-31'
+          description: |2-
+              * Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
+              * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
+              * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
+              * Implemented modified dimension reduction and manifod learning techniques for Brain image data in order to capture neural uncertainty representation.
+          - title: Data Science Intern
+          company: People Against Cyber Abuse
+          company_url: 'https://www.linkedin.com/company/pacaorg/'
+          company_logo: PACA
+          location: Delhi
+          date_start: '2021-12-15'
+          date_end: '2022-01-31'
+          description: |2-
+              * Analysed the results of the surveys conducted by PACA on cyber abuse from various online and offline platforms.
+              * Modelled the response of people to their chances of being a victim through Decision Trees.
+              * Hierarchial Clustering revealed groups of people with similar traits who were cyber abused as well as groups prone to cyber abuse.
+              * Public sentiments about awareness and ways to curb cyber abuse were mined using natural language processing and sentiment classifiers.
+
+          
     design:
       columns: '2'
   - block: accomplishments
