@@ -67,13 +67,13 @@ sections:
               * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
               * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
               * Implemented modified dimension reduction and manifod learning techniques for Brain image data in order to capture neural uncertainty representation.
-        - title: Summer Research Intern
-          company: Cognitive Brain Dynamics Lab at IIT Jodhpur
-          company_url: 'https://cbdlnbrc.weebly.com/'
-          company_logo: IITJ
-          location: Jodhpur, Rajasthan
-          date_start: '2022-05-15'
-          date_end: '2022-08-31'
+        - title: Data Science Intern
+          company: People Against Cyber Abuse
+          company_url: 'https://www.linkedin.com/company/pacaorg/'
+          company_logo: PACA
+          location: Delhi
+          date_start: '2021-12-31'
+          date_end: '2022-01-31'
           description: |2-
               * Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
               * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
