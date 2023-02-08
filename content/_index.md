@@ -240,38 +240,51 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
+      title: Get In Touch
+      subtitle: Let's build, research and collaborate.
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel me to reach me out. I am always in an outlook for great people and awesome work.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: rishi8001100192@gmail.com
+      appointment_url: 'https://calendly.com/rishidarkdevil/30min'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Indian Statistical Institute
+        city: Kolkata
+        region: APAC
+        postcode: '700108'
+        country: India
+        country_code: IN
       contact_links:
+        - icon: envelope
+          icon_pack: fas
+          link: 'mailto:rishi8001100192@gmail.com'
+          label: Reach me out on Email
+          display:
+            header: true
+        - icon: linkedin
+          icon_pack: fab
+          link: https://www.linkedin.com/in/rishi-dey-chowdhury/
+          label: Connect with Me on LinkedIn
+          display:
+            header: true
         - icon: twitter
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: https://twitter.com/rishidarkdevil
+          label: Reach me on Twitter
+          display:
+            header: true
+        - icon: instagram
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: https://www.instagram.com/rishidarkdevil/
+          label: Reach me on Instagram
+          display:
+            header: true
+        - icon: facebook
+          icon_pack: fab
+          link: https://www.facebook.com/rishi.deychowdhury
+          label: Reach me on Facebook
+          display:
+            header: true
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
