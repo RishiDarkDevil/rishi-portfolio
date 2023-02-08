@@ -186,10 +186,10 @@ sections:
           tag: NLP
         - name: Computer Vision
           tag: Computer Vision
-        - name: Data Analysis
-          tag: Statistics
         - name: Comp Neuroscience
           tag: Comp Neuroscience
+        - name: Data Analysis
+          tag: Statistics
         - name: Other
           tag: Misc
       sort_by: 'Date'
