@@ -166,6 +166,7 @@ sections:
     id: projects
     content:
       title: Projects
+      subtitle: Arsenal of my past and present projects. They mostly focus on AI, ML and Data Science, with their applications in NLP, CV, Comp Neuro and AI4SG
       filters:
         folders:
           - project
@@ -181,8 +182,18 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
+        - name: NLP
+          tag: NLP
+        - name: Computer Vision
+          tag: Computer Vision
+        - name: Data Analysis
+          tag: Statistics
+        - name: Comp Neuroscience
+          tag: Comp Neuroscience
         - name: Other
-          tag: Demo
+          tag: Misc
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
