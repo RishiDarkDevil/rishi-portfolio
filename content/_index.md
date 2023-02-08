@@ -167,6 +167,7 @@ sections:
     content:
       title: Projects
       subtitle: Arsenal of self-motivated past and present projects in on AI, ML and Data Science, with their applications in NLP, CV, Comp Neuro and AI4SG
+      count: 6
       filters:
         folders:
           - project
@@ -193,6 +194,7 @@ sections:
         - name: Other
           tag: Misc
       sort_by: 'Date'
+      sort_ascending: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
