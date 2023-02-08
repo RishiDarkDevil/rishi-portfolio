@@ -1,6 +1,6 @@
 ---
 title: Digit Span Test
-summary: R Shiny Webapp to conduct and provide dashboard results for Digit Span Psychology Test for measuring Short-Term Memory Capacity with detailed analysis of performance and data.
+summary: R Shiny Webapp to conduct and provide dashboard results for Digit Span Psychology Test for measuring Short-Term Memory Capacity with detailed analysis of performance
 
 tags:
   - Statistics
