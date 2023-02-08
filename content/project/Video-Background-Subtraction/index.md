@@ -1,5 +1,5 @@
 ---
-title: Image Segmentation
+title: Video Background Subtraction
 summary: A fast video background subtraction that generates mask of moving foreground objects for surveillance videos using Kernel Density Estimation and thresholding
 
 tags:
