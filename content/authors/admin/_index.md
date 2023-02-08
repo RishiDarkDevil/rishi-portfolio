@@ -85,6 +85,12 @@ social:
     label: Follow me on Instagram
     display:
       header: true
+  - icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/rishi.deychowdhury
+    label: Follow me on Facebook
+    display:
+      header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

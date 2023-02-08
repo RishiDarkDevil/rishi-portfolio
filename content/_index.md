@@ -255,36 +255,22 @@ sections:
         country: India
         country_code: IN
       contact_links:
-        - icon: envelope
-          icon_pack: fas
-          link: 'mailto:rishi8001100192@gmail.com'
-          label: Reach me out on Email
-          display:
-            header: true
         - icon: linkedin
           icon_pack: fab
-          link: https://www.linkedin.com/in/rishi-dey-chowdhury/
-          label: Connect with Me on LinkedIn
-          display:
-            header: true
+          name: Connect with Me on LinkedIn
+          link: 'https://www.linkedin.com/in/rishi-dey-chowdhury/'
         - icon: twitter
           icon_pack: fab
-          link: https://twitter.com/rishidarkdevil
-          label: Reach me on Twitter
-          display:
-            header: true
+          name: Send Me a DM
+          link: 'https://twitter.com/rishidarkdevil'
         - icon: instagram
           icon_pack: fab
-          link: https://www.instagram.com/rishidarkdevil/
-          label: Reach me on Instagram
-          display:
-            header: true
+          name: Send Me a DM
+          link: 'https://www.instagram.com/rishidarkdevil/'
         - icon: facebook
           icon_pack: fab
-          link: https://www.facebook.com/rishi.deychowdhury
-          label: Reach me on Facebook
-          display:
-            header: true
+          name: Send Me a DM
+          link: 'https://www.facebook.com/rishi.deychowdhury'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
