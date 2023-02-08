@@ -3,7 +3,7 @@ title: Matrix Ops & Physics Simulations
 summary: Matrix Computations, Statistical Optimization and Physics simulation with advanced mathematical modelling techniques like Finite Elements Methods
 
 tags:
-  - Statistics
+  - Misc
   - Physics
   - Optimization
 date: '2021-06-01T00:00:00Z'

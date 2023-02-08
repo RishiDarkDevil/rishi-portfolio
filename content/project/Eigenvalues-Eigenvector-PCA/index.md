@@ -3,7 +3,7 @@ title: Eigenvalues & Eigenvectors, PCA
 summary: Eigenvalues and Eigenvector calculation of covariance matrix using several optimized iterative techniques with application to Principal Component Analysis
 
 tags:
-  - Statistics
+  - Misc
 date: '2021-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
