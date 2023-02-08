@@ -1,10 +1,11 @@
 ---
-title: Fair Learning
-summary: Devised new definition of model fairness based on Adversarial notion and implementing several fairness techniques like regularisation, re-weighting, suppression and LFR in ML and NNs
+title: Neural Machine Translation
+summary: Explored several baseline Transformer models built from scratch for English to low-resourced North-Eastern Indian Languages in an effort to mainstream large native population
 
 tags:
   - Deep Learning
-date: '2022-02-01T00:00:00Z'
+  - NLP
+date: '2022-06-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -18,8 +19,8 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier'
-url_pdf: 'https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier/blob/main/Fair-Classifier.ipynb'
+url_code: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali'
+url_pdf: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali/blob/main/README.md'
 url_slides: ''
 url_video: ''
 
