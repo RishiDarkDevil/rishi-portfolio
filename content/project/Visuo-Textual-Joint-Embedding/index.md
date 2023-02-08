@@ -1,11 +1,13 @@
 ---
-title: Text-Based Object Discovery
-summary: Caption-based Diffusion synthetic data generation with improvement of existing extreme classification object detection models using Contrastive Learning
+title: Visuo-Textual Joint Embedding
+summary: Contextual Information-rich joint embedding for image and text in a multi-modal vector space using object-text collocation and Relative Position-based Transformer
+
 tags:
   - Deep Learning
   - Computer Vision
   - NLP
-date: '2022-11-15T00:00:00Z'
+  - Multi-Modal Learning
+date: '2022-08-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -19,7 +21,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/RishiDarkDevil/Text-Based-Object-Discovery'
+url_code: 'https://github.com/RishiDarkDevil/Joint-Embedding'
 url_pdf: ''
 url_slides: ''
 url_video: ''
