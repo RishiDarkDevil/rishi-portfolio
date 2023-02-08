@@ -225,13 +225,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Events
       filters:
         folders:
           - event
     design:
       columns: '2'
-      view: compact
+      view: showcase
   - block: tag_cloud
     content:
       title: Popular Topics
