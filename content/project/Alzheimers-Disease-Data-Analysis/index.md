@@ -1,5 +1,5 @@
 ---
-title: Alzheimer's Disease Genetic Data Analysis
+title: Alzheimer's Disease Data Analysis
 summary: Logistic Regression was used to identify genes responsible for Alzheimer's Disease with high accuracy, sensitivity and specificity paired with great visualization
 
 tags:
