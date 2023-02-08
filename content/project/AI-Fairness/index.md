@@ -1,6 +1,6 @@
 ---
 title: Fair Learning
-summary: Devised new definition of model fairness based on Adversarial notion and implemented several fairness techniques like fairness regularization and LFR in ML and NNs
+summary: Devised new definition of model fairness based on Adversarial notion and implemented several fairness techniques like fairness regularization and LFR in NNs
 
 tags:
   - Deep Learning
