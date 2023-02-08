@@ -1,6 +1,6 @@
 ---
 title: Neural Uncertainty Representation
-summary: Unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics in the Brain, revealing significant represenational difference between age groups
+summary: Unraveled uncertainty as a major underlying latent variable for explaining emotional dynamics in the Brain, revealing significant represenational difference between age groups
 
 tags:
   - Deep Learning
