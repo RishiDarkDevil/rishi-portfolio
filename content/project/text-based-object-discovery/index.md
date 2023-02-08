@@ -1,6 +1,6 @@
 ---
 title: Text-Based Object Discovery
-summary: Caption-based Diffusion synthetic data generation with improvement of extreme classification object detection models
+summary: Caption-based Diffusion synthetic data generation with improvement of existing extreme classification object detection models using Contrastive Learning
 tags:
   - Deep Learning
   - Computer Vision
