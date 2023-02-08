@@ -155,7 +155,7 @@ sections:
         exclude_past: false
         publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+      offset: 1
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
@@ -167,7 +167,6 @@ sections:
     content:
       title: Projects
       subtitle: Arsenal of self-motivated past and present projects in on AI, ML and Data Science, with their applications in NLP, CV, Comp Neuro and AI4SG
-      count: 6
       filters:
         folders:
           - project
