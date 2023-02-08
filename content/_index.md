@@ -261,15 +261,15 @@ sections:
           link: 'https://www.linkedin.com/in/rishi-dey-chowdhury/'
         - icon: twitter
           icon_pack: fab
-          name: Send Me a DM
+          name: Send Me a DM on Twitter
           link: 'https://twitter.com/rishidarkdevil'
         - icon: instagram
           icon_pack: fab
-          name: Send Me a DM
+          name: Send Me a DM on Instagram
           link: 'https://www.instagram.com/rishidarkdevil/'
         - icon: facebook
           icon_pack: fab
-          name: Send Me a DM
+          name: Send Me a DM on Facebook
           link: 'https://www.facebook.com/rishi.deychowdhury'
       # Automatically link email and phone or display as text?
       autolink: true
