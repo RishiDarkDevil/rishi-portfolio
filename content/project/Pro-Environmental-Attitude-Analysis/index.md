@@ -1,11 +1,10 @@
 ---
-title: Fair Learning
-summary: Devised new definition of model fairness based on Adversarial notion and implemented several fairness techniques like fairness regularization and LFR in NNs
+title: Pro-Environmental Attitude Analysis
+summary: Study on the pro-environmental attitude among college students of India and suggesting necessary measures leveraging statistical inference techniques.
 
 tags:
-  - Deep Learning
-  - AI Fairness
-date: '2022-02-01T00:00:00Z'
+  - Statistics
+date: '2022-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -19,8 +18,8 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier'
-url_pdf: 'https://github.com/RishiDarkDevil/Regularization-Based-Fair-Classifier/blob/main/Fair-Classifier.ipynb'
+url_code: 'https://github.com/RishiDarkDevil/Pro-Environmental-Attitude-Analysis'
+url_pdf: 'https://rishidarkdevil.github.io/Pro-Environmental-Attitude-Analysis/'
 url_slides: ''
 url_video: ''
 
