@@ -7,18 +7,18 @@ tags:
 date: '2021-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://rishidarkdevil.github.io/Image-Segmentation/Image-Segmentation.html'
+external_link: 'https://rishidarkdevil.github.io/Alzheimers-Disease-Data-Analysis/Data-Analysis.html'
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-url_code: 'https://rishidarkdevil.github.io/Image-Segmentation'
+links:
+  - icon: medium
+    icon_pack: fab
+    name: Blog
+    url: https://medium.com/@rishidarkdevil/revisiting-logistic-regression-a-gentle-introduction-to-generalized-linear-models-27baae1550f
+url_code: 'https://rishidarkdevil.github.io/Alzheimers-Disease-Data-Analysis/'
 url_pdf: ''
 url_slides: ''
 url_video: ''

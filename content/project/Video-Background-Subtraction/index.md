@@ -13,13 +13,13 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
+links:
+  - icon: medium
+    icon_pack: fab
+    name: Blog
+    url: https://medium.com/@rishidarkdevil/kernel-density-estimation-a-gentle-introduction-to-non-parametric-statistics-6a5259d26eff
 url_code: 'https://github.com/RishiDarkDevil/Background-Subtraction-KDE'
-url_pdf: 'https://medium.com/@rishidarkdevil/kernel-density-estimation-a-gentle-introduction-to-non-parametric-statistics-6a5259d26eff'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
