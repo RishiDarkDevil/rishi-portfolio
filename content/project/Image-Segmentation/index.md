@@ -1,6 +1,6 @@
 ---
-title: GMM Image Segmentation
-summary: Implemented Expectation-Maximization Algorithm from scratch with Gaussian Mixture Model for Image Segmentation and its application to Brain Image Segmentation
+title: Image Segmentation
+summary: Implemented Expectation-Maximization Algorithm from scratch for image segmentation with Gaussian Mixture Model and its application to Brain Images and written notes
 
 tags:
   - Statistics
