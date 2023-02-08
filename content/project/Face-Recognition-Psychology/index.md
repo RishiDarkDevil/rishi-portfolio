@@ -1,13 +1,13 @@
 ---
-title: COVID-19 Air Quality Index 
-summary: Air Quality Index data analysis during COVID-19 for 4 major Indian cities, including inference, modelling and investigation for drops in pollution.
+title: Face Recognition Psychology
+summary: Psychological analysis of face recognition abilities and tendency among humans using survey and psychological techniques with categorical data analysis
 
 tags:
   - Statistics
 date: '2021-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://rishidarkdevil.github.io/Stats_Project_AQI_2021/Analysis_Report.html'
+external_link: 'https://rishidarkdevil.github.io/Face-Recognition-Psychology/'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ image:
 #     icon_pack: fab
 #     name: Blog
 #     url: https://medium.com/@rishidarkdevil/revisiting-logistic-regression-a-gentle-introduction-to-generalized-linear-models-27baae1550f
-url_code: 'https://github.com/RishiDarkDevil/Stats_Project_AQI_2021'
+url_code: 'https://github.com/RishiDarkDevil/Face-Recognition-Psychology'
 url_pdf: ''
 url_slides: ''
 url_video: ''
