@@ -4,7 +4,7 @@ summary: Logistic Regression was used to identify genes responsible for Alzheime
 
 tags:
   - Statistics
-date: '2021-01-01T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://rishidarkdevil.github.io/Alzheimers-Disease-Data-Analysis/Data-Analysis.html'

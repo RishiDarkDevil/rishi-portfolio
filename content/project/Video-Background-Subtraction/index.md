@@ -4,7 +4,7 @@ summary: A fast video background subtraction that generates mask of moving foreg
 
 tags:
   - Statistics
-date: '2021-01-01T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://rishidarkdevil.github.io/Background-Subtraction-KDE/Background-Separation.html'

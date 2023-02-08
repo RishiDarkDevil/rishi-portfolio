@@ -4,7 +4,7 @@ summary: Psychological analysis of face recognition abilities and tendency among
 
 tags:
   - Statistics
-date: '2021-06-01T00:00:00Z'
+date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://rishidarkdevil.github.io/Face-Recognition-Psychology/'
