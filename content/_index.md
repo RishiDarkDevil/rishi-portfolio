@@ -194,6 +194,7 @@ sections:
           tag: Misc
       sort_by: 'Date'
       sort_ascending: false
+      default_button_index: 1
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
