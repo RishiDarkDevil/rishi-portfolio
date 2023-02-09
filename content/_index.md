@@ -43,6 +43,7 @@ sections:
           icon: dice
           icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       subtitle: My past work included mostly Multi-Modal Learning, Computational Learning and AI Fairness.
@@ -96,6 +97,17 @@ sections:
               * Public sentiments about awareness and ways to curb cyber abuse were mined using natural language processing and sentiment classifiers.
     design:
       columns: '2'
+  - block: collection
+    id: events
+    content:
+      title: Recent & Upcoming Events
+      count: 2
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -231,17 +243,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Events
-      count: 2
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics

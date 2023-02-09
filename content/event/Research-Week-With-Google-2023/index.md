@@ -1,5 +1,5 @@
 ---
-title: Research Week With Google
+title: Research Week With Google 2023
 
 event: Research Week With Google
 event_url: https://sites.google.com/view/researchweek2023/home
@@ -12,7 +12,7 @@ address:
   postcode: '560001'
   country: India
 
-summary: Amazing cohort of researchers and students came together to discuss the recent advancements in AI and Deep Learning. I was a part of the Natural Language Understanding Sub-Track
+summary: Amazing cohort of researchers and students came together to discuss the recent advancements in AI and Deep Learning. I was a part of the Natural Language Understanding Sub-Track.
 abstract: ''
 
 # Talk start and end times.

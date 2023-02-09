@@ -1,5 +1,5 @@
 ---
-title: Advanced Summer School on NLP
+title: Advanced Summer School on NLP 2022
 
 event: IIIT-H Advanced Summer School on Natural Language Processing
 event_url: https://ltrc.iiit.ac.in/iasnlp2022/
@@ -12,7 +12,7 @@ address:
   postcode: '500032'
   country: India
 
-summary: A one month-long summer school on Advanced Natural Language Processing with special focus on Speech and Machine Translation for low-resourced Indian Languages and evaluation techniques
+summary: A one month-long summer school on Advanced Natural Language Processing with special focus on Speech and Machine Translation for low-resourced Indian Languages and MT evaluation techniques.
 abstract: ''
 
 # Talk start and end times.

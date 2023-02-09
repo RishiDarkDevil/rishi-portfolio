@@ -1,5 +1,5 @@
 ---
-title: IndoML
+title: Indian Symposium on Machine Learning 2022
 
 event: Indian Symposium on Machine Learning
 event_url: https://indoml.in/
