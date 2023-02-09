@@ -265,7 +265,7 @@ sections:
           date_start: '2021-01-25'
           description: ''
           organization: Jovian
-          organization_logo: jovian
+          logo: jovian
           organization_url: https://www.jovian.com
           title: Data Structures & Algorithms in Python
           url: ''
@@ -274,7 +274,7 @@ sections:
           date_start: '2021-01-25'
           description: ''
           organization: Kaggle
-          organization_logo: kaggle
+          logo: kaggle
           organization_url: https://www.kaggle.com/
           title: Python Basics
           url: ''
