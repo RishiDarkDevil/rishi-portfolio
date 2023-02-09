@@ -18,7 +18,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://rishidarkdevil.github.io/Image-Segmentation'
+url_code: 'https://github.com/RishiDarkDevil/Image-Segmentation'
 url_pdf: ''
 url_slides: ''
 url_video: ''

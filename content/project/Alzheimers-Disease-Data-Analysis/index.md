@@ -18,7 +18,7 @@ links:
     icon_pack: fab
     name: Blog
     url: https://medium.com/@rishidarkdevil/revisiting-logistic-regression-a-gentle-introduction-to-generalized-linear-models-27baae1550f
-url_code: 'https://rishidarkdevil.github.io/Alzheimers-Disease-Data-Analysis/'
+url_code: 'https://github.com/RishiDarkDevil/Alzheimers-Disease-Data-Analysis/'
 url_pdf: ''
 url_slides: ''
 url_video: ''
