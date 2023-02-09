@@ -56,7 +56,7 @@ sections:
           icon: eye
           icon_pack: fas
         - name: R
-          description: Created beautiful R Shiny and Data Analysis Reports in R
+          description: Created several beautiful R Shiny and Data Analysis Reports in R
           icon: r-project
           icon_pack: fab
         - name: Deep Learning
