@@ -217,7 +217,8 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      # title: 'Accomplish&shy;ments'
+      title: Courses
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -264,6 +265,7 @@ sections:
           date_start: '2021-01-25'
           description: ''
           organization: Jovian
+          organization_logo: jovian
           organization_url: https://www.jovian.com
           title: Data Structures & Algorithms in Python
           url: ''
@@ -272,6 +274,7 @@ sections:
           date_start: '2021-01-25'
           description: ''
           organization: Kaggle
+          organization_logo: kaggle
           organization_url: https://www.kaggle.com/
           title: Python Basics
           url: ''
