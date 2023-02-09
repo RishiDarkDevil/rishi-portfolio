@@ -108,6 +108,8 @@ email: 'rishi8001100192@gmail.com'
 highlight_name: true
 ---
 
+# {{< icon name="heart" pack="fas" >}} [To Mom](/parents) 
+
 <p>I am a senior pursuing my undergraduate degree in Statistics from Indian Statistical Institute, Kolkata. Currently, I am working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> at the <a href="https://aiisc.ai/" target="_blank" rel="noopener">AI Institute, University of South Carolina.</a> At ISI Kolkata, I am the Event Head for the Annual DataFest Challenge and drive many AI related group discussions.</p>
 
 <p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I have led several projects in the field of Multi-Modal Learning, AI Fairness and Computational Neuroscience during the last couple of years. I am presently working towards pushing frontiers of object detection and generating richer joint embeddings. Reach out if you are interested in my research or would like to discuss any ideas.</p>

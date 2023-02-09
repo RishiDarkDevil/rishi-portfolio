@@ -21,7 +21,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali'
 url_pdf: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali/blob/main/README.md'
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1RjvmapmWYxVUd2RHYaOd58qyyZajeK7s/edit?usp=sharing&ouid=114726223585453410130&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).

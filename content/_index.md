@@ -156,7 +156,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: Arsenal of self-motivated past and present projects in on AI, ML and Data Science, with their applications in NLP, CV, Comp Neuro and AI4SG
+      subtitle: Arsenal of self-motivated past and present projects in AI, ML and Data Science, with their applications in NLP, CV, Comp Neuro and AI4SG
       filters:
         folders:
           - project
