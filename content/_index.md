@@ -234,7 +234,7 @@ sections:
           description: 'Selected among large number of applicants to be a part of the Research Week with Google Conference with top-notch researchers in AI and Machine Learning from across the world. My sub-track was Natural Language Understanding.'
           organization: Google
           organization_url: https://research.google/locations/india/
-          title: Selected for Research Week With Google
+          title: Research Week With Google
           url: ''
         - certificate_url: https://drive.google.com/file/d/1gfMCd-fIn_w5xbr56P6ea6lMC60R2O12/view
           date_end: ''
@@ -255,10 +255,10 @@ sections:
         - certificate_url: https://drive.google.com/file/d/1oac_ItVyXMd5b0tvzszWtZjCK5-3s31q/view?usp=sharing
           date_end: ''
           date_start: '2022-09-18'
-          description: 'Recieved Full Scholarship (1200$) for both semesters of The Quantum Computing course, IBM Quantum'
+          description: 'Recieved Full Scholarship (1200$) for both semesters of The Quantum Computing course by IBM Quantum and the Coding School.'
           organization: IBM
           organization_url: https://www.ibm.com
-          title: Selected for IBM Introduction to Quantum Computing
+          title: IBM Introduction to Quantum Computing
           url: ''
         - date_end: ''
           date_start: '2020-12-01'
@@ -389,7 +389,7 @@ sections:
           url: ''
         - certificate_url: 'https://drive.google.com/file/d/1v7qZspn-I9_uuZnNqPKNf8UGR6fWK6Tc/view?usp=sharing'
           date_end: ''
-          date_start: '2020-09-25'
+          date_start: '2020-10-25'
           description: 'Secured an All India Rank of 64 out of more than 60,000 students who appeared for the B.Stat entrance examination of ISI, ranked the topmost college in India for education in Statistics.'
           organization: Indian Statistical Institute
           organization_url:
