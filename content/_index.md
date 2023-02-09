@@ -458,9 +458,9 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: xvonkrgn
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
