@@ -412,7 +412,10 @@ sections:
       subtitle: 'The Proper Function of Man is to Live, Not to Exist. I Shall Not Waste My Days in Trying to Prolong Them. I Shall Use My Time.'
       text: |-
         {{< gallery album="photos" >}}
-
+      gallery_item:
+      - album: photos
+        image: image12.jpg
+        caption: At Research Week With Google
     design:
       columns: '1'
   - block: tag_cloud
@@ -466,9 +469,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-
-gallery_item:
-- album: photos
-  image: image12.jpg
-  caption: At Research Week With Google
 ---
