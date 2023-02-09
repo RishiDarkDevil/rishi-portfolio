@@ -188,7 +188,7 @@ sections:
           tag: Computer Vision
         - name: Comp Neuroscience
           tag: Comp Neuroscience
-        - name: Data Analysis
+        - name: Statistics
           tag: Statistics
         - name: Other
           tag: Misc
@@ -235,6 +235,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Events
+      count: 3
       filters:
         folders:
           - event
