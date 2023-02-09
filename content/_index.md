@@ -260,6 +260,14 @@ sections:
           organization_url: https://www.iiit.ac.in/
           title: Summer School on AI
           url: ''
+        - certificate_url: https://drive.google.com/file/d/1rOvS7bHF0s_QsxL8djH2MpZ-neUZqJ5J/view
+          date_end: ''
+          date_start: '2022-08-25'
+          description: ''
+          organization: Indian Statistical Institute
+          organization_url: https://www.isical.ac.in/
+          title: Independence Day Debate Competition
+          url: ''
         - certificate_url: https://drive.google.com/file/d/1_gkPAr836YY9sCucpK1K5ebjUTVEPVDX/view
           date_end: ''
           date_start: '2022-08-25'
