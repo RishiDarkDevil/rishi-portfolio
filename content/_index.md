@@ -235,13 +235,13 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Events
-      count: 3
+      count: 2
       filters:
         folders:
           - event
     design:
       columns: '2'
-      view: showcase
+      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
