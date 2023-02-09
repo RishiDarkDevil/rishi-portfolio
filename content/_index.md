@@ -14,6 +14,31 @@ sections:
       text:
     design:
       columns: '2'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   - block: features
     content:
       title: Skills
@@ -30,6 +55,18 @@ sections:
           description: Worked Extensively on Joint Embedding, Object Detection and Image Segmentation
           icon: eye
           icon_pack: fas
+        - name: Deep Learning
+          description: Worked on several Research Projects leveraing and improving Deep Learning Techniques
+          icon: neural-network
+          icon_pack: custom
+        - name: Data Structure Algorithms
+          description: Skilled in Implementation of several Advanced Data Structure and Algorithms
+          icon: network-wired
+          icon_pack: fas
+        - name: Quantum Computing
+          description: Worked on Quantum Machine Learning, Optimization and Challenge Problems 
+          icon: quantum-comp
+          icon_pack: custom
         - name: R
           description: Created beautiful R Shiny and Data Analysis Reports in R
           icon: r-project
@@ -224,31 +261,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -267,7 +279,7 @@ sections:
       address:
         street: Indian Statistical Institute
         city: Kolkata
-        region: APAC
+        region: India
         postcode: '700108'
         country: India
         country_code: IN

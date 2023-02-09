@@ -39,8 +39,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/rishidarkdevil
-url_code: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali'
-url_pdf: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali/blob/main/README.md'
+url_code: ''
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
