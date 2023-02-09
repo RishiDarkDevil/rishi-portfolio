@@ -465,8 +465,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-gallery_item:
-- album: photos
-  image: image12.jpg
-  caption: At Research Week With Google
 ---

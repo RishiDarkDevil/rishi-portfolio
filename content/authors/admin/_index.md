@@ -97,7 +97,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1SBBgWd_d0f1GK33co15sB-YbIFu802KZ/view
-    label: Find More About Me
+    label: Look at My Curriculum Vitae
     display:
       header: true
 
