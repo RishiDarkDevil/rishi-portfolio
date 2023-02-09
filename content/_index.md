@@ -407,10 +407,10 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: Gallery
-      subtitle: ''
+      title: Memories
+      subtitle: 'The Proper Function of Man is to Live, Not to Exist. I Shall Not Waste My Days in Trying to Prolong Them. I Shall Use My Time.'
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="photos" >}}
     design:
       columns: '1'
   - block: tag_cloud
