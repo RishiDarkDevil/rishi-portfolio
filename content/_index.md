@@ -66,7 +66,7 @@ sections:
           description: |2-
               > Contributing towards a Research Paper.
 
-              
+
               Responsibilities include:
 
               * Working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> in the Joint Embedding Group.
@@ -81,7 +81,7 @@ sections:
           date_start: '2022-05-15'
           date_end: '2022-08-31'
           description: |2-
-              > Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              > Recieved The Best Project Award at the School of AI and Data Science during my Summer Internship.
               
               * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
               * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
