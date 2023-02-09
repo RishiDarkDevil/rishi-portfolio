@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rishi Dey Chowdhury # Website name
-baseURL: 'https://rishidarkdevil.netlify.app/' # Website URL
+baseURL: 'https://RishiDarkDevil.github.io' # Website URL
 
 ############################
 ## LANGUAGE
