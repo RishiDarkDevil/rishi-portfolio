@@ -57,16 +57,16 @@ sections:
           icon_pack: fas
         - name: Deep Learning
           description: Worked on several Research Projects leveraing and improving Deep Learning Techniques
-          icon: neural-network
-          icon_pack: custom
+          icon: brain
+          icon_pack: fas
         - name: Data Structure Algorithms
           description: Skilled in Implementation of several Advanced Data Structure and Algorithms
           icon: network-wired
           icon_pack: fas
         - name: Quantum Computing
           description: Worked on Quantum Machine Learning, Optimization and Challenge Problems 
-          icon: quantum-comp
-          icon_pack: custom
+          icon: atom
+          icon_pack: fas
         - name: R
           description: Created beautiful R Shiny and Data Analysis Reports in R
           icon: r-project
