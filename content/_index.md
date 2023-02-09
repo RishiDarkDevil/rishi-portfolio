@@ -238,7 +238,7 @@ sections:
           url: ''
         - certificate_url: https://drive.google.com/file/d/1gfMCd-fIn_w5xbr56P6ea6lMC60R2O12/view
           date_end: ''
-          date_start: '2022-11-18'
+          date_start: '2022-12-31'
           description: 'Selected in the top 8 teams out of over 192 competitors in the IndoML22 Datathon Challenge and Awarded a full scholarship to attend Indian Symposium on Machine Learning 2022 Conference at IIT Gandhinagar.'
           organization: IndoML
           organization_url: https://indoml.in/
