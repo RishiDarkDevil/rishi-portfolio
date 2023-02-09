@@ -192,8 +192,9 @@ sections:
     id: posts
     content:
       title: Recent Posts
-      subtitle: ''
-      text: ''
+      subtitle: 'Teaching is a Great Way to Keep Learning'
+      text: |-
+        I frequently put down my thoughts on [Medium](https://medium.com/@rishidarkdevil) about my research works, interesting puzzles and heart-stirring experiences 
       # Choose how many pages you would like to display (0 = all pages)
       count: 2
       # Filter on criteria
