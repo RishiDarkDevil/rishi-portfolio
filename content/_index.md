@@ -64,6 +64,9 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
+              > Contributing towards a Research Paper.
+
+              
               Responsibilities include:
 
               * Working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> in the Joint Embedding Group.
@@ -78,9 +81,8 @@ sections:
           date_start: '2022-05-15'
           date_end: '2022-08-31'
           description: |2-
-              {{% callout note %}}
-              Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
-              {{% /callout %}}
+              > Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              
               * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
               * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
               * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
@@ -93,6 +95,8 @@ sections:
           date_start: '2021-12-31'
           date_end: '2022-01-31'
           description: |2-
+              > Best Report and Presentation of Data Analysis.
+
               * Analysed the results of the surveys conducted on cyber abuse from various online and offline platforms.
               * Modelled the response of people to their chances of being a victim through Decision Trees.
               * Heirarchial Clustering revealed groups of people with similar traits who were cyber abused as well as groups prone to cyber abuse.
