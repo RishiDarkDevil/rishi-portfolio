@@ -218,7 +218,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       # title: 'Accomplish&shy;ments'
-      title: Courses
+      title: Certifications
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -228,6 +228,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://drive.google.com/file/d/1gfMCd-fIn_w5xbr56P6ea6lMC60R2O12/view
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: IndoML
+          organization_url: https://indoml.in/
+          title: Indian Symposium on Machine Learning
+          url: ''
+        - certificate_url: https://www.credly.com/badges/b49daf48-7d8c-4c94-81f2-94c5d091bc36/public_url
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: IBM
+          organization_url: https://www.ibm.com
+          title: IBM Quantum Fall Challenge - Advanced
+          url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/TDVFTF6HSUEH
           date_end: ''
           date_start: '2021-01-25'
@@ -235,6 +251,30 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Generative Adversarial Networks Specialization
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/18R9Zj1jtMGQMaAWaV-nbY3QudKHKwXUA/view
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: International Institute of Information Technology
+          organization_url: https://www.iiit.ac.in/
+          title: Summer School on AI
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1_gkPAr836YY9sCucpK1K5ebjUTVEPVDX/view
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Indian Institute of Technology Jodhpur
+          organization_url: https://www.iitj.ac.in/
+          title: Summer Internship at School of AI and Data Science
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1Pa18JXUNgIQidlNnD36mtHH9vwBjqW86/view
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: International Institute of Information Technology
+          organization_url: https://www.iiit.ac.in/
+          title: Advanced Summer School on Natural Language Processing
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/MLVVJJ2P2KAX
           date_end: ''
@@ -259,6 +299,14 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Machine Learning Specialization
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1caZHvdJwRPyQY7ruBHI_GRYpsrDYpcKb/view
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Indian Statistical Institute
+          organization_url: https://www.isical.ac.in/
+          title: Winter School for Deep Learning - From Perceptrons to Transformers
           url: ''
         - certificate_url: https://jovian.ai/certificate/MFQTMMBZGM
           date_end: ''
