@@ -151,45 +151,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
   - block: collection
     id: posts
     content:
@@ -253,6 +214,69 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/TDVFTF6HSUEH
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Generative Adversarial Networks Specialization
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/MLVVJJ2P2KAX
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Deep Learning Specialization
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/FXKVM9SXHYEC
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Natural Language Processing Specialization
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/JVZYDX2CV7W9
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Machine Learning Specialization
+          url: ''
+        - certificate_url: https://jovian.ai/certificate/MFQTMMBZGM
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Jovian
+          organization_url: https://www.jovian.com
+          title: Data Structures & Algorithms in Python
+          url: ''
+        - certificate_url: https://www.kaggle.com/learn/certification/rishideychowdhury/python
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
+          organization: Kaggle
+          organization_url: https://www.kaggle.com/
+          title: Python Basics
+          url: ''
+    design:
+      columns: '2'
   - block: markdown
     content:
       title: Gallery
