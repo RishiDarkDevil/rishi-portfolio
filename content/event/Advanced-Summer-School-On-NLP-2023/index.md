@@ -1,37 +1,37 @@
 ---
-title: Advanced Summer School on NLP
+title: IndoML
 
-event: IIIT-H Advanced Summer School on Natural Language Processing
-event_url: https://ltrc.iiit.ac.in/iasnlp2022/
+event: Indian Symposium on Machine Learning
+event_url: https://indoml.in/
 
-location: International Institute of Information Technology, Hyderabad
+location: Indian Institute of Technology, Gandhinagar
 address:
-  street: Professor CR Rao Road
-  city: Hyderbad
-  region: Telangana
-  postcode: '500032'
+  street: Palaj
+  city: Gandhinagar
+  region: Gujrat
+  postcode: '382355'
   country: India
 
-summary: A one month-long summer school on Advanced Natural Language Processing with special focus on Speech and Machine Translation for low-resourced Indian Languages and evaluation techniques
+summary: Selected to attend this brilliant conference as a part of Top 8 winner in the IndoML Datathon Challenge. It was quite engaging to learn about the research going on in the Indian ML community.
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-20T13:00:00Z'
-date_end: '2022-07-20T15:00:00Z'
+date: '2022-12-12T13:00:00Z'
+date_end: '2022-12-18T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-01T00:00:00Z'
+publishDate: '2022-12-01T00:00:00Z'
 
 authors: []
-tags: ['NLP']
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'At IIIT Hyderabad'
+  caption: 'At IndoML22'
   focal_point: Right
 
 links:
@@ -39,8 +39,8 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/rishidarkdevil
-url_code: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali'
-url_pdf: 'https://github.com/RishiDarkDevil/Neural-Machine-Translation-English-Bengali/blob/main/README.md'
+url_code: ''
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -56,8 +56,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - Neural-Machine-Translation
+# projects:
+#   - example
 ---
 
 <!-- {{% callout note %}}
