@@ -1,10 +1,29 @@
 ---
 title: The Chessboard High Five Problem
+subtitle: A Probability Brain Teaser. If you love solving puzzles you will definitely enjoy this challenge.
+
+summary: A Probability Brain Teaser. If you love solving puzzles you will definitely enjoy this challenge.
+
 date: 2022-10-21
+lastmod: 2022-10-21
+
+draft: false
+
+featured: false
+
+tags:
+  - Probability
+
 math: true
 image:
   placement: 2
   caption: 'Image credit: Me'
+
+categories:
+  - Probability
+  - Puzzle
+  - Maths
+  - Quant
 ---
 
 Just another day, when I was browsing through my Instagram feed, my friend sent me this interesting yet not so difficult problem involving understanding of basic probability, counting and bit of time to pause the temptation to scroll the rest of your Instagram feed.
