@@ -20,7 +20,7 @@ main:
     url: '#posts'
     weight: 50
   - name: Accomplishments
-    url: '#certifications'
+    url: '#accomplishments'
     weight: 60
   # - name: Publications
   #   url: '#featured'

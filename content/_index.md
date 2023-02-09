@@ -228,6 +228,45 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://drive.google.com/file/d/1i8Vd063pxUWLurP8d_G5zGrDcwCD_h9N/view?usp=sharing
+          date_end: ''
+          date_start: '2023-01-01'
+          description: 'Selected among large number of applicants to be a part of the Research Week with Google Conference with top-notch researchers in AI and Machine Learning from across the world. My sub-track was Natural Language Understanding.'
+          organization: Google
+          organization_url: https://research.google/locations/india/
+          title: Selected for Research Week With Google
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1gfMCd-fIn_w5xbr56P6ea6lMC60R2O12/view
+          date_end: ''
+          date_start: '2022-11-18'
+          description: 'Selected in the top 8 teams out of over 192 competitors in the IndoML22 Datathon Challenge and Awarded a full scholarship to attend Indian Symposium on Machine Learning 2022 Conference at IIT Gandhinagar.'
+          organization: IndoML
+          organization_url: https://indoml.in/
+          title: Top Team at IndoML22 Datathon Challenge
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1QzUfs2xDo__ha8-5xNQyAlteHNFcrUQp/view?usp=sharing
+          date_end: ''
+          date_start: '2022-08-18'
+          description: 'Contributed by producing significant scientific findings to a complicated research problem in the intersection of Machine Learning and Computational Neuroscience. My work revealed directions for continuing further research on the topic, that can lead to significant understanding and discoveries.'
+          organization: Indian Institute of Technology Jodhpur
+          organization_url: https://indoml.in/
+          title: Best Project Award in Summer Internship Program
+          url: ''
+        - certificate_url: https://drive.google.com/file/d/1oac_ItVyXMd5b0tvzszWtZjCK5-3s31q/view?usp=sharing
+          date_end: ''
+          date_start: '2022-09-18'
+          description: 'Recieved Full Scholarship (1200$) for both semesters of The Quantum Computing course, IBM Quantum'
+          organization: IBM
+          organization_url: https://www.ibm.com
+          title: Selected for IBM Introduction to Quantum Computing
+          url: ''
+        - date_end: ''
+          date_start: '2020-12-01'
+          description: 'In Top 10 students of my Institute in the 1st year awarded for academic excellence'
+          organization: Indian Statistical Institute
+          organization_url: https://www.isical.ac.in/
+          title: Top 10 Students
+          url: ''
         - certificate_url: https://drive.google.com/file/d/1gfMCd-fIn_w5xbr56P6ea6lMC60R2O12/view
           date_end: ''
           date_start: '2022-12-18'
@@ -331,6 +370,38 @@ sections:
           organization: Kaggle
           organization_url: https://www.kaggle.com/
           title: Python Basics
+          url: ''
+        - certificate_url: 'https://drive.google.com/file/d/1sTn6efGe-rAlHem3gDusqnKFnFFKC02e/view?usp=sharing'
+          date_end: ''
+          date_start: '2020-09-25'
+          description: 'JEE Advanced is considered to be the toughest entrance examination for engineering students in India. I received an All India Rank of 2225 in JEE Advanced out of 200000 candidates who qualified JEE Mains out of 1.1 million students who appeared.'
+          organization: JEE Advanced
+          organization_url:
+          title: All India Rank 2225 
+          url: ''
+        - certificate_url: 'https://drive.google.com/file/d/10NHskDRy07otJMY4dRY4olM6aDQPJE3Z/view?usp=sharing'
+          date_end: ''
+          date_start: '2020-09-25'
+          description: 'Secured an All India Rank of less than 1500 for getting into Birla Institute of Technology, India, considered as one of the top engineering colleges in the same tier as IITs, with over 3,50,000 competing students.'
+          organization: Birla Institute of Technology
+          organization_url: 
+          title: All India Rank 1500
+          url: ''
+        - certificate_url: 'https://drive.google.com/file/d/1v7qZspn-I9_uuZnNqPKNf8UGR6fWK6Tc/view?usp=sharing'
+          date_end: ''
+          date_start: '2020-09-25'
+          description: 'Secured an All India Rank of 64 out of more than 60,000 students who appeared for the B.Stat entrance examination of ISI, ranked the topmost college in India for education in Statistics.'
+          organization: Indian Statistical Institute
+          organization_url:
+          title: All India Rank 64
+          url: ''
+        - certificate_url: 'https://drive.google.com/file/d/1KozCt7DpdGIy9KxdYwQyDCiT3Folj7S-/view?usp=sharing'
+          date_end: ''
+          date_start: '2020-02-25'
+          description: 'Secured an All India Rank of 238 out of 3,00,000 plus students who appeared. This exam is held for getting into the best engineering colleges in West Bengal with Jadavpur University at the top, which is in the same tier as IITs.'
+          organization: WBJEE
+          organization_url:
+          title: All India Rank 238
           url: ''
     design:
       columns: '2'
