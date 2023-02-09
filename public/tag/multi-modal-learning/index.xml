@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Modal Learning | Rishi</title>
+    <link>https://RishiDarkDevil.github.io/rishi-portfolio/tag/multi-modal-learning/</link>
+      <atom:link href="https://RishiDarkDevil.github.io/rishi-portfolio/tag/multi-modal-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Modal Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://RishiDarkDevil.github.io/rishi-portfolio/media/icon_hucf31d7374fc459aedebb55d24d710d3c_248924_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-Modal Learning</title>
+      <link>https://RishiDarkDevil.github.io/rishi-portfolio/tag/multi-modal-learning/</link>
+    </image>
+    
+    <item>
+      <title>Visuo-Textual Joint Embedding</title>
+      <link>https://RishiDarkDevil.github.io/rishi-portfolio/project/visuo-textual-joint-embedding/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://RishiDarkDevil.github.io/rishi-portfolio/project/visuo-textual-joint-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scanned Document Classification</title>
+      <link>https://RishiDarkDevil.github.io/rishi-portfolio/project/scanned-document-classification/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://RishiDarkDevil.github.io/rishi-portfolio/project/scanned-document-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

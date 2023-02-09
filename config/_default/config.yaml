@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Rishi Dey Chowdhury # Website name
+title: Rishi # Website name
 baseURL: 'https://RishiDarkDevil.github.io/rishi-portfolio' # Website URL
 
 ############################

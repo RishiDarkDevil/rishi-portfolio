@@ -116,4 +116,4 @@ highlight_name: true
 
 <p>In my free time, I love to travel, listen to songs and cook. I enjoy writing about my experiences and ideas on <a href="https://medium.com/@rishidarkdevil" target="_blank" rel="noopener">Medium</a>.</p>
 
-# [{{< icon name="heart" pack="fas" >}} To Mom](/mom) 
+# [{{< icon name="heart" pack="fas" >}} To Mom](./mom) 

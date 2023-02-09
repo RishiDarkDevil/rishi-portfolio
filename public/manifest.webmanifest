@@ -1,0 +1,18 @@
+{
+  "name": "Rishi",
+  "short_name": "Rishi",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/rishi-portfolio/media/icon_hucf31d7374fc459aedebb55d24d710d3c_248924_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/rishi-portfolio/media/icon_hucf31d7374fc459aedebb55d24d710d3c_248924_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
