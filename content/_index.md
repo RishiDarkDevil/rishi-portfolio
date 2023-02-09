@@ -326,6 +326,7 @@ sections:
           title: Python Basics
           url: ''
     design:
+      view: compact
       columns: '2'
   - block: markdown
     content:
