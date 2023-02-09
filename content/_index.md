@@ -55,22 +55,22 @@ sections:
           description: Worked Extensively on Joint Embedding, Object Detection and Image Segmentation
           icon: eye
           icon_pack: fas
+        - name: R
+          description: Created beautiful R Shiny and Data Analysis Reports in R
+          icon: r-project
+          icon_pack: fab
         - name: Deep Learning
           description: Worked on several Research Projects leveraing and improving Deep Learning Techniques
           icon: brain
-          icon_pack: fas
-        - name: Data Structure Algorithms
-          description: Skilled in Implementation of several Advanced Data Structure and Algorithms
-          icon: network-wired
           icon_pack: fas
         - name: Quantum Computing
           description: Worked on Quantum Machine Learning, Optimization and Challenge Problems 
           icon: atom
           icon_pack: fas
-        - name: R
-          description: Created beautiful R Shiny and Data Analysis Reports in R
-          icon: r-project
-          icon_pack: fab
+        - name: Data Structure Algorithms
+          description: Skilled in Implementation of several Advanced Data Structure and Algorithms
+          icon: network-wired
+          icon_pack: fas
         - name: Statistics
           description: Skilled in Statistical Inference, Quality Control and Operations Research
           icon: chart-line
