@@ -78,7 +78,9 @@ sections:
           date_start: '2022-05-15'
           date_end: '2022-08-31'
           description: |2-
-              * Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              {{% callout note %}}
+              Recieved Best Project Award in the School of AI and Data Science during my Summer Internship.
+              {{% /callout %}}
               * Worked on unraveling uncertainty as a major underlying latent variable for explaining emotional dynamics.
               * Study revealed significant uncertainty representation difference in young and old subjects and identified the Brain Regions capturing this.
               * Devised improved sequence models for multivariate BOLD time series predictions and entropy estimation for each Brain ROIs, for quantifying outcome uncertainty.
