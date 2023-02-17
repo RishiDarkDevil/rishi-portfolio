@@ -144,7 +144,7 @@ sections:
     id: events
     content:
       title: Recent & Upcoming Events
-      subtitle: Events That Keeps Me Up-to-Date
+      subtitle: Events That Keep Me Up-to-Date
       count: 2
       filters:
         folders:
@@ -156,7 +156,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: Arsenal of self-motivated past and present projects in AI, ML and Data Science, with their applications in NLP, CV, Comp Neuro and AI4SG
+      subtitle: Arsenal of self-motivated past and present projects in AI, ML and Data Science, with their applications in NLP, CV, Computational Neuroscience and AI For Social Good
       filters:
         folders:
           - project

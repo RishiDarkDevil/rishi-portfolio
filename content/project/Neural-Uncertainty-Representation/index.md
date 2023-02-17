@@ -21,7 +21,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/RishiDarkDevil/Neural-Uncertainty-Representation'
 url_pdf: 'https://github.com/RishiDarkDevil/Neural-Uncertainty-Representation/blob/main/Report/Report-Update-27th-January-2023.pdf'
-url_slides: 'https://github.com/RishiDarkDevil/Neural-Uncertainty-Representation/blob/main/Report/6th-August-2022.pptx'
+url_slides: 'https://docs.google.com/presentation/d/1d7F1TVdBUEjP7ZLiCL9TkkrHcXYuEAoC/edit?usp=sharing&ouid=114726223585453410130&rtpof=true&sd=true'
 url_video: ''
 
 # Slides (optional).

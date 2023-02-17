@@ -17,7 +17,7 @@ links:
   - icon: globe
     icon_pack: fas
     name: Web App
-    url: https://rishidarkdevil.shinyapps.io/Digit-Span-Test/"
+    url: https://rishidarkdevil.shinyapps.io/Digit-Span-Test
 url_code: 'https://github.com/RishiDarkDevil/Digit-Span-Test'
 url_pdf: 'https://github.com/RishiDarkDevil/Digit-Span-Test/blob/main/Forward_Digit_Span_Test.pdf'
 url_slides: ''
