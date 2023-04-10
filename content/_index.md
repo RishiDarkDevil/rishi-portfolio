@@ -178,6 +178,8 @@ sections:
           tag: Computer Vision
         - name: Comp Neuroscience
           tag: Comp Neuroscience
+        - name: Quantum Computing
+          tag: Quantum Computing
         - name: Statistics
           tag: Statistics
         - name: Other
