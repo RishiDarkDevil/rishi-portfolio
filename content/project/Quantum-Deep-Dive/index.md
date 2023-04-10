@@ -482,7 +482,7 @@ I have presented the results of the quantum computer's computation below.
     
 ## VQE Routine Not Converging Well
     
-When running the same problem earlier. The results can be slightly different from when you run the same problem due to the heuristic nature of the algorithm, but we can see that it is not showing good convergence to the solution. The 'solution objective' (solution of our objective function) gave us '302.0,' which is higher than our reference solution (shortest path) '236.0.' <br>
+When running the same problem earlier. The results can be slightly different from when we run the same problem due to the heuristic nature of the algorithm, but we can see that it is not showing good convergence to the solution. The 'solution objective' (solution of our objective function) gave us '302.0,' which is higher than our reference solution (shortest path) '236.0.' <br>
 ![image.png](Numpy-Solver.png)
 
 </div>
@@ -493,7 +493,7 @@ When running the same problem earlier. The results can be slightly different fro
 
 In many applications it is important to find the minimum eigenvalue of a matrix. For example, in chemistry, the minimum eigenvalue of a Hermitian matrix characterizing the molecule is the ground state energy of that system. As we learned earlier, we can map our shortest path problem into an Ising Hamiltonian, which allows us to search for the shortest path in the same way we find the ground state energy of a molecule. 
 
-We may have heard that a quantum state can be represented as a vector in a complex vector space. This space where all the possible quantum states exist is mathematically called a 'Hilbert Space.' As your optimization problem grows in size and the more number of constraints you need to take into consideration, this adds a degree of complexity that will grow your Hilbert Space exponentially.
+We may have heard that a quantum state can be represented as a vector in a complex vector space. This space where all the possible quantum states exist is mathematically called a 'Hilbert Space.' As the optimization problem grows in size and the more number of constraints we need to take into consideration, this adds a degree of complexity that will grow our Hilbert Space exponentially.
 
 Problems like the Traveling Salesman Problem are known to be NP-Hard due to how our solution space grows exponentially with each city and constraints added. 
 
@@ -635,8 +635,7 @@ Let us visualize and confirm this result! According to the equation above, solvi
 from qiskit_ibm_runtime import QiskitRuntimeService
 
 # Initialize service and backend
-#QiskitRuntimeService.save_account(channel='ibm_quantum', token='my_token', overwrite=True) #uncomment if you need to save your account again
-service = QiskitRuntimeService(channel="ibm_quantum")
+#QiskitRuntimeService.save_account(channel='ibm_quantum', token='my_token', overwrite=True)
 
 # Set simulator
 backend = service.backends(simulator=True)[0]
@@ -851,7 +850,7 @@ backend = service.backends(simulator=True)[0]
 
 # Call RunVQE. Do not pass in options
 with Session(service = service, backend = backend):
-    result, mean = RunVQE(Estimator(), PQC, optimizer, qubitOp, init)#----# Enter your code here. Do not pass in options)
+    result, mean = RunVQE(Estimator(), PQC, optimizer, qubitOp, init)
 
 # Print result
 print(result)
@@ -902,7 +901,7 @@ optimal.draw("mpl")
 
 Next, let us proceed to setup our Sampler to obtain the best bitstring from the result we just computed. Here we shall pass the optimal circuit with the measurements as computed above and extract the optimal_parameters list from result.
 
->A note on the usage of nearest_probability_distribution: While a Quasiprobability distribution does offer a wider gamut of information data points at your disposal, we cannot directly substitute it for a real probability distribution. For a Quasiprobability distribution to be converted into a true probability distribution, we shall use here the `nearest_probability_distribution()` function. This function takes a quasiprobability distribution as an input and maps it to the closest probability distribution as defined by the L2-norm up to a certain error bound
+>A note on the usage of nearest_probability_distribution: While a Quasiprobability distribution does offer a wider gamut of information data points at our disposal, we cannot directly substitute it for a real probability distribution. For a Quasiprobability distribution to be converted into a true probability distribution, we shall use here the `nearest_probability_distribution()` function. This function takes a quasiprobability distribution as an input and maps it to the closest probability distribution as defined by the L2-norm up to a certain error bound
 
 We shall now use this to get our eigenstate and obtain the optimal result from this distribution!
 
@@ -931,7 +930,8 @@ def BestBitstring(result, optimal_circuit):
     options = Options(simulator={"seed_simulator": 42},resilience_level=0)
     
     with Session(service = service, backend = backend):
-        sampler_result = Sampler(options=options).run(optimal_circuit, parameter_values=[list(result.optimal_parameters.values())]).result() # Enter your code here. Please do pass in options in the Sampler construct.
+        sampler_result = Sampler(options=options).run(optimal_circuit, parameter_values=[list(result.optimal_parameters.values())]).result()
+
     result_prob_dist = sampler_result.quasi_dists[0].nearest_probability_distribution() # Obtain the nearest_probability_distribution for the sampler result from the quasi distribution obtained
     
     max_key = format(max(result_prob_dist, key = result_prob_dist.get),"016b")
@@ -1316,7 +1316,7 @@ init_3 = np.random.rand((n-1)*n//2) * 2 * np.pi
 
 # Call RunVQE.
 with Session(service = service, backend = backend):
-    result_m3, mean_m3 = RunVQE(Estimator(), model_3, optimizer, qubitOp, init_3) #### enter your code here ####
+    result_m3, mean_m3 = RunVQE(Estimator(), model_3, optimizer, qubitOp, init_3) 
 ```
 
     CPU times: user 1.18 s, sys: 25.1 ms, total: 1.2 s
@@ -1369,7 +1369,6 @@ TSPCost(energy = energy_m3, result_bitstring = result_m3_bitstring[7:], adj_matr
 ```python
 # Plot convergence
 PlotGraph(mean = [mean,mean_m3], ideal = ideal)
-# Plot all three if you have run the L-shaped optional cell
 # PlotGraph(mean = [mean,mean_m2,mean_m3], ideal = ideal)
 ```
 
@@ -1379,7 +1378,7 @@ PlotGraph(mean = [mean,mean_m3], ideal = ideal)
     
 
 
-You will see a flat lined result close to the ideal result with an ideal simulator because it contains essentially only the feasible solution subspace which converges very fast in an ideal scenario.
+We see a flat lined result close to the ideal result with an ideal simulator because it contains essentially only the feasible solution subspace which converges very fast in an ideal scenario.
 
 Now it's time to give it another go! Formulate a PQC for a 4 node graph in order to attempt a convergence for a given 4 node graph!
 
@@ -1405,10 +1404,10 @@ draw_graph(tsp.graph, colors, pos)
 
 
 ```python
-qp = tsp.to_quadratic_program() # build your code here
-qp2qubo = QuadraticProgramToQubo() # build your code here
-qubo = qp2qubo.convert(qp) # build your code here
-qubitOp_4, _ = qubo.to_ising() # build your code here
+qp = tsp.to_quadratic_program() 
+qp2qubo = QuadraticProgramToQubo()
+qubo = qp2qubo.convert(qp)
+qubitOp_4, _ = qubo.to_ising()
 ```
 
 
@@ -1560,9 +1559,8 @@ PlotGraph(mean = [mean], ideal = energy_numpy)
 
 
 ### Experimental Results
-![image.png](attachment:image.png)
 
-![image.png](attachment:image.png)
+![image.png](exp-res.png)
 
 # Conclusion {#Conclusion}
 In this implementation and work, I have presented the problem-specific PQCs of the VQE algorithm for the travelling salesman problem. In the PQCs, I have thoroughly discussed the constraints of the problem and have designed circuit to incorporate them. By doing this, it is possible to significantly reduce search spaces. As a result, we can speed up the convergence of the VQE algorithms.
