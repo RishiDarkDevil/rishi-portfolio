@@ -1576,7 +1576,7 @@ In this implementation and work, I have presented the problem-specific PQCs of t
 
 # Reflection Questions {#Reflection-Questions}
 - **Was there anything else you would have liked to add to your project if you had more time?**
-    - I would have loved to use PQCs and all the things, I learnt from the implementation the VQE to solve the TSP problem, to solve various other optimization problems speacially the ones observed in Machine Learning and Chemistry, where we optimize some objective function in order to attain higher accuracy and generalizability of our model or try to find the molecular structure with minimum energy level. Additionally, I could have experiment with various Quantum Error Correction techniques and their impact on the results of this Optimization Problem.
+    - I would have loved to use PQCs and all the things, I learnt from the implementation of VQE to solve the TSP problem, to solve various other optimization problems speacially the ones observed in Machine Learning and Chemistry, where we optimize some objective function in order to attain higher accuracy and generalizability of our model or try to find the molecular structure with minimum energy level. Additionally, I could have experiment with various Quantum Error Correction techniques and their impact on the results of this Optimization Problem.
     
     
 - **What challenges did you face? What may you have done differently?**
@@ -1589,7 +1589,7 @@ In this implementation and work, I have presented the problem-specific PQCs of t
     
     
 - **How does this project relate to your interests or career goals?** 
-    - I am a Statistics Undergraduate, planning to pursue research in my academic career. This project aligns with my research interests of exploring Quantum Machine Learning and Optimization. I highly believe the confidence and knowledge I acquired while attempting to work on this project gave me a taste of how research looks in the Quantum Domain. I further intend to explore topics like Quantum Error Correction which I found quite intriguing during the course.
+    - I am a Statistics Undergraduate, planning to pursue research in my academic career. This project aligns with my research interests of exploring Quantum Machine Learning and Optimization. I highly believe that the confidence and knowledge I acquired while attempting to work on this project gave me a taste of how research looks in the Quantum Domain. I further intend to explore topics like Quantum Error Correction which I found quite intriguing during the course.
     
     
 - **How does this project relate to the societal or ethical impact of quantum/AI on the future?**
