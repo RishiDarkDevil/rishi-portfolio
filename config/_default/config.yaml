@@ -6,6 +6,9 @@
 title: Rishi # Website name
 baseURL: 'https://rishidarkdevil.github.io' # Website URL
 
+images:
+  - path: /Users/rishideychowdhury/Desktop/rishi-portfolio/assets/media/icon.png
+
 ############################
 ## LANGUAGE
 ############################

@@ -231,7 +231,16 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      count: 5
       items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/XMSKXJNTUW5C
+          date_end: ''
+          date_start: '2023-04-11'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Reinforcement Learning Specialization
+          url: ''
         - certificate_url: https://drive.google.com/file/d/1i8Vd063pxUWLurP8d_G5zGrDcwCD_h9N/view?usp=sharing
           date_end: ''
           date_start: '2023-01-01'
