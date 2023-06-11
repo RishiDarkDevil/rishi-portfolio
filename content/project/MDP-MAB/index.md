@@ -1,27 +1,25 @@
 ---
-title: Text-Based Object Discovery
-summary: Caption-based Diffusion synthetic data generation with improvement of existing extreme classification object detection models using Contrastive Learning
+title: Multi-Armed Bandit WebApp
+summary: A Streamlit WebApp Multi-Armed Bandit Game with Epsilon Greedy Agent Simulation 
 tags:
-  - Deep Learning
-  - Computer Vision
-  - NLP
-date: '2022-11-15T00:00:00Z'
+  - Reinforcement Learning
+date: '2023-04-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by rawpixel on Unsplash
+#   focal_point: Smart
 
 # links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/RishiDarkDevil/Text-Based-Object-Discovery'
+url_code: 'https://github.com/RishiDarkDevil/MDP-Multi-Armed-Bandit'
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vRD31VFnXp7ni_sY67V75UOx7hs-fQ402Z-NavxEeHU6miS5LnGwCOnv0FkzfHSQfDQUS5nn991nlxn/pub?start=false&loop=false&delayms=3000'
 url_video: ''
 
 # Slides (optional).

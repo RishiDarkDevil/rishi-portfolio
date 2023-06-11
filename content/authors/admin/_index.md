@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Final Year Statistics Undergraduate
+role: Bachelor of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.isical.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Machine Learning and Data Science.
+bio: My research interests include Artificial Intelligence, Deep Learning and their applications in Computer Vision and NLP.
 
 # Interests to show in About widget
 interests:
   - Deep Learning
-  - Natural Language Processing
   - Computer Vision
+  - Natural Language Processing
   - Quantum Computing
   - Probability and Statistics
 
@@ -108,11 +108,13 @@ email: 'rishi8001100192@gmail.com'
 highlight_name: true
 ---
 
-<p>I am a senior pursuing my undergraduate degree in Statistics from Indian Statistical Institute, Kolkata. Currently, I am working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> at the <a href="https://aiisc.ai/" target="_blank" rel="noopener">AI Institute, University of South Carolina.</a> At ISI Kolkata, I am the Event Head for the Annual DataFest Challenge and drive many AI related group discussions.</p>
+<p>I am a recent grad in Bachelor of Statistics from Indian Statistical Institute, Kolkata. Currently, I am engaged in research with:</p>
 
-<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I have led several projects in the field of Multi-Modal Learning, AI Fairness and Computational Neuroscience during the last couple of years. I am presently working towards pushing frontiers of object detection and generating richer joint embeddings. Reach out if you are interested in my research or would like to discuss any ideas.</p>
+<p>{{< icon name="briefcase" pack="fas" >}} <a href="http://amitavadas.com/" target="_blank" rel="noopener">Prof. Amitava Das</a> at the <a href="https://aiisc.ai/" target="_blank" rel="noopener">AI Institute, University of South Carolina</a></p> <p>{{< icon name="briefcase" pack="fas" >}} <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof. Richa Singh</a> at the <a href="http://iab-rubric.org/" target="_blank" rel="noopener">Trusted AI and Biometric Lab, IIT Jodhpur</a></p>
 
-<p><span style="color:orange; style:bold;"><strong>I am looking for Summer 2023 Internship Opportunities.</strong></span></p>
+<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I am presently working towards benchmarking robustness in Neural Face Recognition systems and pushing frontiers of Extreme Object Detection with Generative models. Reach out if you are interested in my research or would like to discuss.</p>
+
+<p><span style="color:orange; style:bold;"><strong>I am actively looking for Internship Opportunities.</strong></span></p>
 
 <p>In my free time, I love to travel, listen to songs and cook. I enjoy writing about my experiences and ideas on <a href="https://medium.com/@rishidarkdevil" target="_blank" rel="noopener">Medium</a>.</p>
 

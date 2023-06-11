@@ -47,13 +47,13 @@ sections:
           description: Built several end to end projects AI and ML Projects in Python
           icon: python
           icon_pack: fab
+        - name: Computer Vision
+          description: Worked Extensively on Face Recognition, Object Detection and Image Segmentation
+          icon: eye
+          icon_pack: fas
         - name: Natural Language Processing
           description: Worked extensively on Machine Translation and Document Representation
           icon: language
-          icon_pack: fas
-        - name: Computer Vision
-          description: Worked Extensively on Joint Embedding, Object Detection and Image Segmentation
-          icon: eye
           icon_pack: fas
         - name: R
           description: Created several beautiful R Shiny and Data Analysis Reports
@@ -83,7 +83,7 @@ sections:
     id: experience
     content:
       title: Experience
-      subtitle: My past work included mostly Multi-Modal Learning, Computational Learning and AI Fairness.
+      subtitle: My past work included mostly Multi-Modal Learning, Computer Vision, Natural Language Processing and Generative AI.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -93,6 +93,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Computer Vision Research Intern
+          company: Trust AI and Biometrics Lab at IIT Jodhpur
+          company_url: 'http://iab-rubric.org/'
+          company_logo: iab
+          location: Jodhpur, Rajasthan
+          date_start: '2023-05-01'
+          date_end: ''
+          description: |2-
+              > Contributing towards a Research Paper.
+
+
+              Responsibilities include:
+
+              * Working with <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof Richa Singh</a> and <a href="https://research.iitj.ac.in/researcher/mayank-vatsa" target="_blank" rel="noopener">Mayank Vatsa</a>.
+              * Developing data pipelines for benchmarking robustness of Neural Face Recognition systems.
+              * Combatting performance drops for various face recognition backbones and analyzing the impact of various corruptions and perturbation.
+              * Delving into the impact of various corruption in impacting the Face Recognition Models and identifying robust architectures and losses.
         - title: Research Intern
           company: AI Institute of University of South Carolina
           company_url: 'https://aiisc.ai/'
@@ -172,12 +189,14 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: NLP
-          tag: NLP
         - name: Computer Vision
           tag: Computer Vision
+        - name: NLP
+          tag: NLP
         - name: Comp Neuroscience
           tag: Comp Neuroscience
+        - name: Reinforcement Learning
+          tag: Reinforcement Learning
         - name: Quantum Computing
           tag: Quantum Computing
         - name: Statistics
@@ -437,7 +456,7 @@ sections:
       title: Get In Touch
       subtitle: Let's build, research and collaborate.
       text: |-
-        Feel me to reach me out. I am always in an outlook for great people and awesome work.
+        Feel free to reach me out. I am always in an outlook for great people and awesome work.
       # Contact (add or remove contact options as necessary)
       email: rishi8001100192@gmail.com
       appointment_url: 'https://calendly.com/rishidarkdevil/30min'

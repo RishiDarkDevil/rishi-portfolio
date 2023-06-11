@@ -1,6 +1,6 @@
 ---
 title: Perceptions of Poverty
-summary: Designing a novel Contrastive Allocative Perturbative (CAP) Framework for estimating adjustable weights for poverty indicators relevant for Indian context coupled with survey data
+summary: Designing a novel Contrastive Perturbative (CP) Framework for estimating adjustable perception-based weights for poverty indicators relevant for Indian context using Discrete Choice Models
 
 tags:
   - Statistics
@@ -20,8 +20,8 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: 'https://github.com/RishiDarkDevil/Perceptions-of-Poverty'
-url_pdf: 'https://github.com/RishiDarkDevil/Perceptions-of-Poverty/blob/main/Presentation/Perceptions-Of-Poverty-Rishi.pdf'
-url_slides: 'https://docs.google.com/presentation/d/1w8i0_SX2S4-lFPryHziPj87IeTrM3y_yLifwkYmOgb8/edit?usp=sharing'
+url_pdf: 'https://github.com/RishiDarkDevil/Perceptions-of-Poverty/blob/main/Report/Perception_of_Poverty.pdf'
+url_slides: 'https://docs.google.com/presentation/d/e/2PACX-1vTUbAWl08UDxZMKiqeODORxvOmA0jwJRWzH2AfcZbia65Pz-ieiJhuBU4Un2m2ASH_BPo78c6eU21rU/pub?start=false&loop=false&delayms=3000'
 url_video: ''
 
 # Slides (optional).

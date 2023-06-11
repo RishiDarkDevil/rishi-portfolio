@@ -1,9 +1,8 @@
 ---
 title: Quantum Deep Dive
-summary: Exploring Parametrized Quantum Circuits for solving NP-Hard Travelling Salesman Optimization roblem with Variational Quantum Eigensolver.
+summary: Exploring Parametrized Quantum Circuits for solving NP-Hard Travelling Salesman Optimization roblem with Variational Quantum Eigensolver
 tags:
   - Quantum Computing
-  - Misc
 date: '2023-04-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
