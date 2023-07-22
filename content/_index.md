@@ -107,7 +107,7 @@ sections:
               Responsibilities include:
 
               * Working with <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof Richa Singh</a> and <a href="https://research.iitj.ac.in/researcher/mayank-vatsa" target="_blank" rel="noopener">Mayank Vatsa</a>.
-              * Developing data pipelines for benchmarking robustness of Neural Face Recognition systems.
+              * Developing benchmarking pipelines for robustness of Neural Face Recognition systems.
               * Combatting performance drops for various face recognition backbones and analyzing the impact of various corruptions and perturbation.
               * Delving into the impact of various corruption in impacting the Face Recognition Models and identifying robust architectures and losses.
         - title: Research Intern
@@ -252,6 +252,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       count: 5
       items:
+        - certificate_url: https://drive.google.com/file/d/1TJwuk0S6mn86yKpt9K6WtkMPHAB8bnzQ/view?usp=sharing
+          date_end: ''
+          date_start: '2023-07-18'
+          description: ''
+          organization: Akuna
+          organization_url: https://akunacapital.com/
+          title: Options 101
+          url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/XMSKXJNTUW5C
           date_end: ''
           date_start: '2023-04-11'
