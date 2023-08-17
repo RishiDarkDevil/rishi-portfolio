@@ -127,6 +127,20 @@ sections:
               * Developing Large-Scale Data Generation Pipeline for Text-Based Object Discovery to tackle Extreme Object Detection and Classification.
               * Leveraging the above system to generate richer visuo-textual joint embedding using contextual and self-supervised learning and RPE transformer.
               * Handling downstream tasks of detecting harmful meme content, labelling food items, image-to-text and text-to-image retrieval.
+        - title: Natural Language Processing Research Intern
+          company: Uniphore
+          company_url: 'https://www.uniphore.com/'
+          company_logo: uniphore
+          location: Bangalore, India
+          date_start: '2023-06-01'
+          date_end: '2023-08-10'
+          description: |2-
+              > Improved the existing system in production for annotating speech transcript data at scale.
+              
+              * Collaborated with a team of NLP Researchers on designing a Data Programming Pipeline using Active Learning and Weak Supervision.
+              * Designed a no-code Web Interface to label large Natural Language and Transcript datasets at scale.
+              * Improved existing enterprise labelling systems by incorporating Semantic Search, Hierarchical and Community Clustering strategies to label data at speed.
+              * Improved existing Active Learning approach by chaining Ensemble Models and Label Model for Single Label Classification Task.
         - title: Summer Research Intern
           company: Cognitive Brain Dynamics Lab at IIT Jodhpur
           company_url: 'https://cbdlnbrc.weebly.com/'
@@ -252,6 +266,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       count: 5
       items:
+        - certificate_url: https://drive.google.com/file/d/1sUPdRAYLiFOnm4RHzSpoeWG92GJ7r71k/view?usp=sharing
+          date_end: ''
+          date_start: '2023-08-01'
+          description: ''
+          organization: Oxford
+          organization_url: https://www.ox.ac.uk/
+          title: Machine Learning Summer School
+          url: ''
         - certificate_url: https://drive.google.com/file/d/1TJwuk0S6mn86yKpt9K6WtkMPHAB8bnzQ/view?usp=sharing
           date_end: ''
           date_start: '2023-07-18'
