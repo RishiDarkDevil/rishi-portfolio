@@ -110,7 +110,7 @@ sections:
               * Developing benchmarking pipelines for robustness of Neural Face Recognition systems.
               * Combatting performance drops for various face recognition backbones and analyzing the impact of various corruptions and perturbation.
               * Delving into the impact of various corruption in impacting the Face Recognition Models and identifying robust architectures and losses.
-        - title: Research Intern
+        - title: Deep Learning Research Intern
           company: AI Institute of University of South Carolina
           company_url: 'https://aiisc.ai/'
           company_logo: aiisc
@@ -141,7 +141,7 @@ sections:
               * Designed a no-code Web Interface to label large Natural Language and Transcript datasets at scale.
               * Improved existing enterprise labelling systems by incorporating Semantic Search, Hierarchical and Community Clustering strategies to label data at speed.
               * Improved existing Active Learning approach by chaining Ensemble Models and Label Model for Single Label Classification Task.
-        - title: Summer Research Intern
+        - title: Computational Neuroscience Research Intern
           company: Cognitive Brain Dynamics Lab at IIT Jodhpur
           company_url: 'https://cbdlnbrc.weebly.com/'
           company_logo: IITJ

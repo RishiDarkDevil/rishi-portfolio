@@ -82,6 +82,12 @@ social:
     label: Read my Blogs on Medium
     display:
       header: true
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Rishi_Dey_Chowdhury
+    label: Read my Research Work on ResearchGate
+    display:
+      header: true
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/rishidarkdevil/
