@@ -101,7 +101,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description: |2-
-              > Contributing towards a Research Paper.
+              > Contributing towards Neural Face Recognition Robustness Research Paper.
 
 
               Responsibilities include:
@@ -116,17 +116,17 @@ sections:
           company_logo: aiisc
           location: Columbia, South Carolina
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2023-09-01'
           description: |2-
-              > Contributing towards a Research Paper.
+              > Contributed toward Unsupervised Image Segmentation, Object Detection and Generative AI Research.
 
 
-              Responsibilities include:
+              Responsibilities included:
 
-              * Working with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> in the Joint Embedding Group.
-              * Developing Large-Scale Data Generation Pipeline for Text-Based Object Discovery to tackle Extreme Object Detection and Classification.
-              * Leveraging the above system to generate richer visuo-textual joint embedding using contextual and self-supervised learning and RPE transformer.
-              * Handling downstream tasks of detecting harmful meme content, labelling food items, image-to-text and text-to-image retrieval.
+              * Worked with <a href="http://amitavadas.com/" target="_blank" rel="noopener">Professor Amitava Das</a> in the Joint Embedding Group.
+              * Developed a Novel Attention-Diffusion Algorithm for unsupervised semantic segmentation and object detection using Diffusion models.
+              * Developed Large-Scale Data Generation Pipeline for Text-Based Object Discovery to tackle Extreme Object Detection and Classification.
+              * Leveraged the above system to generate richer visuo-textual joint embedding using contextual and self-supervised learning and RPE transformer.
         - title: Natural Language Processing Research Intern
           company: Uniphore
           company_url: 'https://www.uniphore.com/'
@@ -135,7 +135,7 @@ sections:
           date_start: '2023-06-01'
           date_end: '2023-08-10'
           description: |2-
-              > Improved the existing system in production for annotating speech transcript data at scale.
+              > Improved the existing system in production for annotating speech transcript data at scale and presented my work at IndoML23 Tutorial Session.
               
               * Collaborated with a team of NLP Researchers on designing a Data Programming Pipeline using Active Learning and Weak Supervision.
               * Designed a no-code Web Interface to label large Natural Language and Transcript datasets at scale.

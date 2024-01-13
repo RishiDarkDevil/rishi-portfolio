@@ -119,9 +119,9 @@ highlight_name: true
 
 <p>I am a pursuing Master of Statistics from Indian Statistical Institute, Kolkata. Currently, I am engaged in research with:</p>
 
-<p>{{< icon name="briefcase" pack="fas" >}} <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof. Richa Singh</a> at the <a href="http://iab-rubric.org/" target="_blank" rel="noopener">Trusted AI and Biometric Lab, IIT Jodhpur</a></p><p>{{< icon name="briefcase" pack="fas" >}} <a href="http://amitavadas.com/" target="_blank" rel="noopener">Prof. Amitava Das</a> at the <a href="https://aiisc.ai/" target="_blank" rel="noopener">AI Institute, University of South Carolina</a></p>
+<p>{{< icon name="briefcase" pack="fas" >}} <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof. Richa Singh</a> at the <a href="http://iab-rubric.org/" target="_blank" rel="noopener">Trusted AI and Biometric Lab, IIT Jodhpur</a></p>
 
-<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I am presently working towards benchmarking robustness in Neural Face Recognition systems and pushing frontiers of Extreme Object Detection with Generative models. Reach out if you are interested in my research or would like to discuss.</p>
+<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I am presently working towards benchmarking robustness in Neural Face Recognition systems and pushing frontiers of Semantic Segmentation & Object Detection with Generative models. Reach out if you are interested in my research or would like to discuss.</p>
 
 <p><span style="color:orange; style:bold;"><strong>I am actively looking for Internship Opportunities.</strong></span></p>
 
