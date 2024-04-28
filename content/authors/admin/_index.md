@@ -105,7 +105,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1SBBgWd_d0f1GK33co15sB-YbIFu802KZ/view
+    link: https://drive.google.com/file/d/1I_oe9Rh9zV4wtzs4bOwKsaTt_OxHZ6_d/view?usp=sharing
     label: Look at My Curriculum Vitae
     display:
       header: true
