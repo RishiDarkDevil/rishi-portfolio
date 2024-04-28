@@ -119,12 +119,13 @@ highlight_name: true
 
 <p>I am a pursuing Master of Statistics from Indian Statistical Institute, Kolkata. Currently, I am engaged in research with:</p>
 
-<p>{{< icon name="briefcase" pack="fas" >}} <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof. Richa Singh</a> at the <a href="http://iab-rubric.org/" target="_blank" rel="noopener">Trusted AI and Biometric Lab, IIT Jodhpur</a></p>
+<p>{{< icon name="briefcase" pack="fas" >}} <a href="https://research.ibm.com/people/ritajit-majumdar--1" target="_blank" rel="noopener">Ritajit Majumdar</a>, <a href="https://scholar.google.co.in/citations?user=6LggKrMAAAAJ&hl=en" target="_blank" rel="noopener">Padmanabha Venkatagiri S.</a> and <a href="https://research.ibm.com/people/anupama-ray" target="_blank" rel="noopener">Anupama Ray</a> at <a href="https://research.ibm.com/labs/india" target="_blank" rel="noopener">IBM Research, India</a>.</p>
 
-<p>My research interests broadly revolve around Deep Learning, Computer Vision and Natural Language Processing. I am presently working towards benchmarking robustness in Neural Face Recognition systems and pushing frontiers of Semantic Segmentation & Object Detection with Generative models. Reach out if you are interested in my research or would like to discuss.</p>
+<p>My research interests broadly revolve around Quantum Computing, Deep Learning, Computer Vision and Natural Language Processing. I am presently working towards Graph-Theoretic Transpilation Methods for Deployment of Quantum Circuits on NISQ Hardware. Recently, I have developed deep interest in Quant Trading, Research and Market Microstructure Modelling.</p>
 
-<p><span style="color:orange; style:bold;"><strong>I am actively looking for Internship Opportunities.</strong></span></p>
+<p><span style="color:orange; style:bold;"><strong>I will be interning this summer at JP Morgan as a Model Risk Quant.</strong></span></p>
+<!-- <p><span style="color:orange; style:bold;"><strong>I am actively looking for Internship Opportunities.</strong></span></p> -->
 
-<p>In my free time, I love to travel, listen to songs and cook. I enjoy writing about my experiences and ideas on <a href="https://medium.com/@rishidarkdevil" target="_blank" rel="noopener">Medium</a>.</p>
+<p>In my free time, I love to travel, listen to songs, sketch and cook. I enjoy writing about my experiences and ideas on <a href="https://medium.com/@rishidarkdevil" target="_blank" rel="noopener">Medium</a>.</p>
 
 # [{{< icon name="heart" pack="fas" >}} To Mom](./mom) 

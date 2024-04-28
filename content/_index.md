@@ -44,7 +44,7 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: Built several end to end projects AI and ML Projects in Python
+          description: This is my go-to language at the moment. Have written several packages in Python.
           icon: python
           icon_pack: fab
         - name: Computer Vision
@@ -52,19 +52,19 @@ sections:
           icon: eye
           icon_pack: fas
         - name: Natural Language Processing
-          description: Worked extensively on Machine Translation and Document Representation
+          description: Worked extensively on Machine Translation, Document Representation and LLMs
           icon: language
           icon_pack: fas
-        - name: R
-          description: Created several beautiful R Shiny and Data Analysis Reports
-          icon: r-project
-          icon_pack: fab
+        - name: Quant Trading Research
+          description: Recently gained interest in this field. Working on Market Microstructure simulation.
+          icon: magnifying-glass-chart
+          icon_pack: fas
         - name: Deep Learning
-          description: Worked on several Research Projects leveraing and improving Deep Learning Techniques
+          description: Contributed to several research work towards improving fairness and performance of DL Systems
           icon: brain
           icon_pack: fas
         - name: Quantum Computing
-          description: Worked on Quantum Machine Learning, Optimization and Challenge Problems 
+          description: Contributed to Transpilation Methods for advancement of NISQ Quantum Hardware
           icon: atom
           icon_pack: fas
         - name: Data Structure Algorithms
@@ -72,7 +72,7 @@ sections:
           icon: network-wired
           icon_pack: fas
         - name: Statistics
-          description: Skilled in Statistical Inference, Quality Control and Operations Research
+          description: Skilled in Statistical Inference, Stochastic Processes and Learning Theory
           icon: chart-line
           icon_pack: fas
         - name: Probability
@@ -83,7 +83,7 @@ sections:
     id: experience
     content:
       title: Experience
-      subtitle: My past work included mostly Multi-Modal Learning, Computer Vision, Natural Language Processing and Generative AI.
+      subtitle: My past work mostly include Quantum Computing, Multi-Modal Learning, Computer Vision, NLP and GenAI.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -93,23 +93,41 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+
+        - title: Quantum Computing Research Intern
+          company: IBM Quantum Research India
+          company_url: 'https://research.ibm.com/labs/india'
+          company_logo: ibm
+          location: Bangalore, India
+          date_start: '2024-02-01'
+          date_end: ''
+          description: |2-
+              > Contributing to Traspilation Methods for efficient and fast mapping of Program Quantum Circuit on Hardware Topology Circuit. 
+
+
+              Responsibilities included:
+
+              * Working with <a href="https://research.ibm.com/people/ritajit-majumdar--1" target="_blank" rel="noopener">Ritajit Majumdar</a>, <a href="https://research.ibm.com/people/anupama-ray" target="_blank" rel="noopener">Anupama Ray</a> and several other collaborators.
+              * Devising a novel method for implementing a large program circuit to be run on limited qubits NISQ Hardware.
+
         - title: Computer Vision Research Intern
           company: Trust AI and Biometrics Lab at IIT Jodhpur
           company_url: 'http://iab-rubric.org/'
           company_logo: iab
           location: Jodhpur, Rajasthan
           date_start: '2023-05-01'
-          date_end: ''
+          date_end: '2024-04-08'
           description: |2-
-              > Contributing towards Neural Face Recognition Robustness Research Paper.
-
+              > Contributed towards Neural Face Recognition Robustness Research Paper.
+              > Contributed towards Biometric Capacity and Fairness of Deep FR Systems.
 
               Responsibilities include:
 
-              * Working with <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof Richa Singh</a> and <a href="https://research.iitj.ac.in/researcher/mayank-vatsa" target="_blank" rel="noopener">Mayank Vatsa</a>.
-              * Developing benchmarking pipelines for robustness of Neural Face Recognition systems.
-              * Combatting performance drops for various face recognition backbones and analyzing the impact of various corruptions and perturbation.
-              * Delving into the impact of various corruption in impacting the Face Recognition Models and identifying robust architectures and losses.
+              * Worked with <a href="https://research.iitj.ac.in/researcher/richa-singh-2" target="_blank" rel="noopener">Prof Richa Singh</a> and <a href="https://research.iitj.ac.in/researcher/mayank-vatsa" target="_blank" rel="noopener">Mayank Vatsa</a>.
+              * Created a Multi-Threaded Fast benchmarking pipelines for robustness of Neural Face Recognition systems.
+              * Improved previously existing Fairness Benchmarks for Face Recognition Systems with new metrics and dataset creation.
+              * Contributed to ongoing research on Biometric Capacity of Diffusion and other Generative AI Models through Prompt Engineering.
+
         - title: Deep Learning Research Intern
           company: AI Institute of University of South Carolina
           company_url: 'https://aiisc.ai/'
