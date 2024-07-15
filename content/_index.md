@@ -83,7 +83,7 @@ sections:
     id: experience
     content:
       title: Experience
-      subtitle: My past work mostly include Quantum Computing, Multi-Modal Learning, Computer Vision, NLP and GenAI.
+      subtitle: My past work mostly include Quant Finance, Quantum Computing, Computer Vision, NLP and GenAI.
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -94,21 +94,30 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
+        - title: Model Risk Quant
+          company: JPMorgan Chase & Co.
+          company_url: 'https://www.jpmorgan.com/global'
+          company_logo: jpmc
+          location: Bangalore, India
+          date_start: '2024-05-20'
+          date_end: '2024-07-12'
+          description: |2-
+              > Contributed to Transaction Model Risk Management and Review. Streamlined and automated key components of the Model Review Workflow.
+
         - title: Quantum Computing Research Intern
           company: IBM Quantum Research India
           company_url: 'https://research.ibm.com/labs/india'
           company_logo: ibm
           location: Bangalore, India
           date_start: '2024-02-01'
-          date_end: ''
+          date_end: '2024-05-13'
           description: |2-
-              > Contributing to Traspilation Methods for efficient and fast mapping of Program Quantum Circuit on Hardware Topology Circuit. 
-
+              > Contributed to Traspilation Methods for efficient and fast mapping of Program Quantum Circuit on Hardware Topology Circuit via Graph-Cutting Algorithms. 
 
               Responsibilities included:
 
-              * Working with <a href="https://research.ibm.com/people/ritajit-majumdar--1" target="_blank" rel="noopener">Ritajit Majumdar</a>, <a href="https://research.ibm.com/people/anupama-ray" target="_blank" rel="noopener">Anupama Ray</a> and several other collaborators.
-              * Devising a novel method for implementing a large program circuit to be run on limited qubits NISQ Hardware.
+              * Worked with <a href="https://research.ibm.com/people/ritajit-majumdar--1" target="_blank" rel="noopener">Ritajit Majumdar</a>, <a href="https://research.ibm.com/people/anupama-ray" target="_blank" rel="noopener">Anupama Ray</a> and several other collaborators.
+              * Devised a novel graph cutting method for implementing a large program circuit to be run on limited qubits NISQ Hardware efficiently.
 
         - title: Computer Vision Research Intern
           company: Trust AI and Biometrics Lab at IIT Jodhpur
@@ -137,7 +146,6 @@ sections:
           date_end: '2023-09-01'
           description: |2-
               > Contributed toward Unsupervised Image Segmentation, Object Detection and Generative AI Research.
-
 
               Responsibilities included:
 
