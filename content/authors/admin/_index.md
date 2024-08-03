@@ -22,7 +22,7 @@ organizations:
     url: https://www.isical.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Deep Learning and their applications in Computer Vision and NLP.
+bio: My research interests include Artificial Intelligence, Quant Trading, Deep Learning and their applications in Market Microstructure, Computer Vision and NLP.
 
 # Interests to show in About widget
 interests:
